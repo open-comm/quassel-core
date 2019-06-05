@@ -1,5 +1,4 @@
-Static Apache Webserver Configuration
-=====================================
+# Quassel-Core Docker-Compose Configuration
 
 Ready to use quassel server docker-compose configuration.
 
@@ -35,10 +34,10 @@ After starting the quassel server you need to configure it via the quassel clien
 ## Docker-Compose Usage
 
 ```
-# start quassel server
+# start docker container
 docker-compose up -d
 
-# stop quassel server
+# stop docker container
 docker-compose down
 
 # upgrade container

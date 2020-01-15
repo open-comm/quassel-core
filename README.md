@@ -11,7 +11,7 @@ This configuration uses the linuxserver docker image:
 
 ```
 # clone repository
-git clone https://gitlab.wachter-jud.net/docker/quassel-core.git
+git clone https://git.open-communication.net/open-communication/docker/quassel-core.git
 
 # move into directory
 cd quassel-core
